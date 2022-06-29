@@ -1,4 +1,3 @@
-from turtle import color
 import streamlit as st
 from translator import googleTranslator
 st.set_page_config(layout="wide")
