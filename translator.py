@@ -10,6 +10,9 @@ def googleTranslator(user_input, src='auto', dest='zh-TW'):
     """
     translator = Translator()
     # Translate
-    results = translator.translate(user_input,src=src ,dest=dest)
+    try:
+        results = translator.translate(user_input,src=src ,dest=dest)
+        return results.text
     
-    return results.text
+    except IndexError:
+        return "輸入可能為網址，暫時無法翻譯"
