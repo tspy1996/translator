@@ -21,7 +21,7 @@ def _max_width_():
 
 _max_width_()
 
-st.title("🔠 Offline Translator")
+st.title("🔠 Offline Translator (Argo)")
 
 # translator default setting
 with st.container():
