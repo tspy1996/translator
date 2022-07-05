@@ -27,3 +27,4 @@ pip download \
 ```
 ### Reference
 * https://skeptric.com/python-offline-translation/
+* https://github.com/argosopentech/argos-translate
