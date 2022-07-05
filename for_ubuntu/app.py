@@ -1,7 +1,7 @@
 import streamlit as st
 # from translator_google import googleTranslator
-# from translator_argo import argoTranslator
-from execute_translator import exe
+from translator_argo import argoTranslator
+# from execute_translator import exe
 
 
 # streamlit run app.py
@@ -75,8 +75,8 @@ with st.form("input_form"):
     with col22:
         if submitted:
             # translate_result = googleTranslator(doc, lang_dict[src], lang_dict[dest])
-            # translate_result = argoTranslator(doc, lang_dict[src], lang_dict[dest])
-            translate_result = exe(doc, lang_dict[src], lang_dict[dest])
+            translate_result = argoTranslator(doc, lang_dict[src], lang_dict[dest])
+#             translate_result = exe(doc, lang_dict[src], lang_dict[dest])
             st.write(" ")
             st.write(" ")
             st.write(translate_result)
