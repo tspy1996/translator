@@ -25,3 +25,5 @@ pip download \
     -d libraries
 
 ```
+### Reference
+* https://skeptric.com/python-offline-translation/
