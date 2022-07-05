@@ -40,7 +40,7 @@ def argoTranslator(user_input, src='en', dest='zh'):
         
     return translatedText
 
-print(argoTranslator(sys.argv[1], sys.argv[2], sys.argv[3]))
+# print(argoTranslator(sys.argv[1], sys.argv[2], sys.argv[3]))
 # print(argoTranslator("solution", 'en', 'zh'))
 # if __name__=="__main__":
 
