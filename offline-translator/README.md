@@ -50,7 +50,9 @@ streamlit run Translator.py
 # en -> zh
 I am R.O.C. national and represent our country to have a meeting with Scottish Council for Development and Industry. Both of us are willing to sign a treaty about following the rule of regional economic integration organization.
 # terms: 中華民國國民 蘇格蘭工業發展協進會 簽署條約 區域經濟整合組織
+```
 
+```
 # ja -> zh 1
 1995年に放送を開始した「映像の世紀」の新シリーズ。チョウの羽ばたきのような、一人一人のささやかな営みが、いかに連鎖し、世界を動かしていくのか？　世界各国から収集した貴重なアーカイブス映像をもとに、人類の歴史に秘められた壮大なバタフライエフェクトの世界をお届けする。
 
@@ -69,8 +71,8 @@ I am R.O.C. national and represent our country to have a meeting with Scottish C
 
     # agro time:4.85
     在旗套，事件，實例，彈殼，大箱年裏,總理 在納拉市的演說中,一名涉嫌人說,“毒品是網上購買的”。 火砲，加農砲審查了該案件使用的手槍的詳細想法,以及網上製作錄像的目的。 本月8日,總理 在納拉市的山多託·尼希達伊吉站附近,可能死亡。 內務巡視，整理內務，整頓，內務值勤人員，警察逮捕Tetsuya Yamagami(41),他是Nara市的一個沒有理由,並受到謀殺的調查。
-
---
+```
+```
 # ru to zh
 Сам Яшин находится в спецприемнике в районе Мневники. Политика задержали в ночь на 28 июня в парке у Новодевичьего монастыря. Сотрудники МВД указали в рапорте, что депутат «хватал их за форму, оскорблял, грязно ругался и толкал, всячески провоцируя драку». Поводом для задержания депутата стала некая «ориентировка по уголовному делу», однако ее к делу не приобщили.
 
